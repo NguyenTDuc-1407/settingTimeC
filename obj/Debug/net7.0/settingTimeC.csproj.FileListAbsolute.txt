@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\settingTimeC\bin\Debug\net7.0\settingTimeC.exe
+C:\Users\ASUS\Desktop\settingTimeC\bin\Debug\net7.0\settingTimeC.deps.json
+C:\Users\ASUS\Desktop\settingTimeC\bin\Debug\net7.0\settingTimeC.runtimeconfig.json
+C:\Users\ASUS\Desktop\settingTimeC\bin\Debug\net7.0\settingTimeC.dll
+C:\Users\ASUS\Desktop\settingTimeC\bin\Debug\net7.0\settingTimeC.pdb
+C:\Users\ASUS\Desktop\settingTimeC\obj\Debug\net7.0\settingTimeC.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\settingTimeC\obj\Debug\net7.0\settingTimeC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\settingTimeC\obj\Debug\net7.0\settingTimeC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\settingTimeC\obj\Debug\net7.0\settingTimeC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\settingTimeC\obj\Debug\net7.0\settingTimeC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\settingTimeC\obj\Debug\net7.0\settingTimeC.dll
+C:\Users\ASUS\Desktop\settingTimeC\obj\Debug\net7.0\refint\settingTimeC.dll
+C:\Users\ASUS\Desktop\settingTimeC\obj\Debug\net7.0\settingTimeC.pdb
+C:\Users\ASUS\Desktop\settingTimeC\obj\Debug\net7.0\settingTimeC.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\settingTimeC\obj\Debug\net7.0\ref\settingTimeC.dll
